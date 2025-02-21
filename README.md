@@ -24,5 +24,4 @@ Peacock Web Design is a modern and visually stunning UI/UX concept that focuses 
 📌 **LinkedIn:** [linkedin.com/in/vigneshprabhakaran](https://www.linkedin.com/in/vigneshprabhakaran/)  
 📷 **Instagram:** [@vignes_offl](https://www.instagram.com/vignes_offl/)  
 
-💡 *“Design is thinking made visual.”* – Saul Bass
 
