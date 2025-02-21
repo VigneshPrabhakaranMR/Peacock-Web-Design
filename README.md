@@ -21,7 +21,6 @@ Peacock Web Design is a modern and visually stunning UI/UX concept that focuses 
 
 ## 🔗 Connect With Me  
 🌐 **Portfolio:** [vigneshprabhakaran.onrender.com](https://vigneshprabhakaran.onrender.com/)  
-📌 **LinkedIn:** [linkedin.com/in/vigneshprabhakaran](https://www.linkedin.com/in/vigneshprabhakaran/)  
-📷 **Instagram:** [@vignes_offl](https://www.instagram.com/vignes_offl/)  
+📌 **LinkedIn:** [linkedin.com/in/vigneshprabhakaran](https://www.linkedin.com/in/vigneshprabhakaran/)   
 
 
