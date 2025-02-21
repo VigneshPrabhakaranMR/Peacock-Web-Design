@@ -1,30 +1,28 @@
-# 🚀 Vignesh Prabhakaran – UI/UX Designer  
+# 🎨 Peacock Web Design  
 
-## 🎨 About Me  
-I am a passionate **UI/UX Designer** dedicated to creating **seamless, engaging, and user-friendly** digital experiences. My expertise lies in **user-centered design, wireframing, prototyping, and usability research**, ensuring intuitive interactions across web and mobile platforms.  
+## 🌟 Project Overview  
+Peacock Web Design is a modern and visually stunning UI/UX concept that focuses on delivering an elegant and user-friendly web experience. The project emphasizes **minimalism, smooth interactions, and intuitive navigation**, making it perfect for businesses looking to enhance their online presence.  
 
-## 🔥 Skills & Expertise  
-✅ **User-Centered Design** – Intuitive and accessible interfaces  
-✅ **Wireframing & Prototyping** – Bringing ideas to life using **Figma**  
-✅ **Design Systems** – Maintaining consistency across platforms  
-✅ **Usability Research** – Enhancing experiences through user insights  
+## 🔥 Features  
+✅ **Modern Aesthetic** – A sleek and elegant design inspired by peacock themes  
+✅ **User-Centered Approach** – Ensuring a seamless and engaging user experience  
+✅ **Responsive Design** – Optimized for both desktop and mobile devices  
+✅ **Interactive Elements** – Smooth animations and transitions for a dynamic feel  
 
-## 🚀 What I Do  
-🔹 **Design pixel-perfect UI** for web & mobile apps  
-🔹 **Conduct UX research** to improve user experiences  
-🔹 **Stay updated on UI/UX trends & interaction design**  
-🔹 **Share insights with the design community**  
+## 🎨 Tools & Technologies Used  
+- **Figma** – Wireframing and high-fidelity prototyping  
+- **Adobe XD** – UI Design and interactive elements  
+- **CSS & JavaScript** – For front-end implementation  
 
-## 📂 Featured Projects  
-- 🎨 **Peacock Web Design** (Check out the latest UI concept!)  
-- 💼 **E-Commerce UI/UX Design**  
-- 🎵 **Music App Interface**  
-- 🎮 **Gaming Dashboard UI**  
+## 📂 Project Highlights  
+- 🌟 **Creative Concept** – A fresh and visually appealing design approach  
+- 🚀 **Enhanced UX** – Simplified navigation for improved usability  
+- 🎨 **Color Harmony** – Aesthetic balance with vibrant and calming hues  
 
 ## 🔗 Connect With Me  
 🌐 **Portfolio:** [vigneshprabhakaran.onrender.com](https://vigneshprabhakaran.onrender.com/)  
 📌 **LinkedIn:** [linkedin.com/in/vigneshprabhakaran](https://www.linkedin.com/in/vigneshprabhakaran/)  
 📷 **Instagram:** [@vignes_offl](https://www.instagram.com/vignes_offl/)  
 
-💡 *“Design is intelligence made visible.”* – Alina Wheeler
+💡 *“Design is thinking made visual.”* – Saul Bass
 
